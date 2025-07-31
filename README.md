@@ -1,4 +1,6 @@
-## Hi there 👋
+## 📚 Certifications
+
+- [![AWS SAA](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/b0d1d748-0559-4582-a65d-7dd8e7ec667d/public_url) **AWS Certified Solutions Architect – Associate**
 
 <!--
 **leehyeoklee/leehyeoklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
