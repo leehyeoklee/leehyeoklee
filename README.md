@@ -13,7 +13,6 @@
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **AWS, linux, CI/CD, and Docker**
-- 📚 Preparing for **AWS DevOps Engineer** and **CKA**
 - 💼 Interested in Cloud architecture, scalability, and cost optimization
 - 📝 Blogging my cloud journey on [Velog](https://velog.io/@dlgur213/posts)
 
