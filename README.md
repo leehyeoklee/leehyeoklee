@@ -25,3 +25,10 @@ Passionate about **Cloud Computing, AI Systems, LLM, and Kubernetes**.
 </a>
 
 </div>
+
+
+## 🌱 Open Source Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg">
+  <img src="./contributions.svg" alt="Open Source Contributions">
+</picture>
